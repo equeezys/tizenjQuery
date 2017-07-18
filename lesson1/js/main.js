@@ -89,7 +89,7 @@ function animat(){
 	var mycanvas = document.getElementById("draw3");
 	var tmp=mycanvas.getContext('2d');
 	var speed=0.008
-	for (var i = 0; i<2000; i++)
+	for (var i = 0; i<4000; i++)
 	{
 		tmp.fillStyle='#ffffff';
 		tmp.fillRect(0,0,300,200);
