@@ -1,6 +1,9 @@
 #delete
+res/wgt/js/jquery-ui3.min.js
+res/wgt/js/jquery3.min.js
 #add
 #modify
 res/wgt/author-signature.xml
 res/wgt/signature1.xml
-res/wgt/js/jquery.js
+res/wgt/index.html
+res/wgt/js/main.js
