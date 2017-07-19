@@ -1,5 +1,8 @@
 #delete
+res/wgt/jquery.ui.touch-punch.js
 #add
+res/wgt/js/jquery-ui-custom.js
+res/wgt/js/jquery.ui.touch-punch.js
 #modify
 res/wgt/author-signature.xml
 res/wgt/signature1.xml
